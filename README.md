@@ -1,2 +1,1 @@
-# Codesoft_task1
-codesoft internship task 1
+This Python code defines two classes, Task and ToDoList, to create a simple command-line to-do list application. Users can add tasks, view their tasks, mark tasks as complete, and exit the program. The code uses object-oriented programming principles to manage tasks and their status efficiently.
